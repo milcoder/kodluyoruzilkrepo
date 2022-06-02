@@ -1,4 +1,4 @@
-![kodluyoruzscreenshot][https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png]
+![kodluyoruzscreenshot](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png)
 
 # kodluyoruzilkrepo
 
@@ -8,16 +8,16 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-end eğitiminde oluşturd
 
 Öncellikle projeyi klonlayın. Buraya bizim reponun linki geliyor
 
-''' git clone https://github.com/milcoder/kodluyoruzilkrepo.git '''
+``` git clone https://github.com/milcoder/kodluyoruzilkrepo.git ```
 
 ## Usage 
 
 Projeyi klonladıktan sonra Visual Studio Code Programını açın
 Linux İÇin
 
-''' 
-cd kodluyoruzilkrepo
-code '''
+``` cd kodluyoruzilkrepo
+code 
+```
 
 ## Contrubuting
 
@@ -25,4 +25,4 @@ Pull requestler kabul edilir.Lütfen önce neyi değiştirmek istediğinizi tart
 
 ## Licence
 
-[MIT]{https://www.mit.edu}
+[MIT](https://www.mit.edu)
